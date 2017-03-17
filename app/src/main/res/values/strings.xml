@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hemocentro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_configuracoes">Configurações</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="perfil">Perfil</string>
+    <string name="conquistas">Conquistas</string>
+    <string name="doacoes">Doações</string>
+    <string name="campanhas">Campanhas</string>
+    <string name="duvidas">Dúvidas</string>
+    <string name="comunicacao">Comunicação</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="enviar">Enviar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_perfil">Fragment perfil</string>
+    <string name="fragment_conquistas">Fragment conquistas</string>
+</resources>

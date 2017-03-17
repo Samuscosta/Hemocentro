@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/perfil" />
+        <item
+            android:id="@+id/nav_conquistas"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/conquistas" />
+        <item
+            android:id="@+id/nav_doacoes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/doacoes" />
+        <item
+            android:id="@+id/nav_campanhas"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/campanhas" />
+        <item
+            android:id="@+id/nav_duvidas"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/duvidas" />
+    </group>
+
+    <item android:title="@string/comunicacao">
+        <menu>
+            <item
+                android:id="@+id/nav_compartilhar"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/compartilhar" />
+            <item
+                android:id="@+id/nav_enviar"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/enviar" />
+        </menu>
+    </item>
+
+</menu>
