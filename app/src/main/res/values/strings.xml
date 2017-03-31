@@ -19,4 +19,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="fragment_perfil">Fragment perfil</string>
     <string name="fragment_conquistas">Fragment conquistas</string>
+
+    <!-- Login -->
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Se inscrever</string>
+    <string name="sign_out">Sair</string>
 </resources>
